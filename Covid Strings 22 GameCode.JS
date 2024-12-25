@@ -1,5 +1,5 @@
-<doc.type.html>
-<script>
+doc.type.html
+script
 filename=covidstrings22gamecode.js
 java.awt graphics 
 this.img=document.createelement(covid)
