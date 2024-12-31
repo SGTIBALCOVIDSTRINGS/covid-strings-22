@@ -24,6 +24,13 @@ override
 public actionperformed(actionevent e)
 random r= newrandom();
 colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13),(rnextint(13)))
+num teams
+total players=players per team
+if players per team=zero
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
@@ -197,4 +204,18 @@ if selectedanswer=not correct
 return false
 else 
 return true
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet)
 return filename
