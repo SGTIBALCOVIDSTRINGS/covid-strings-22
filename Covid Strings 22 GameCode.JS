@@ -1,22 +1,22 @@
 doc.type.html
 script
-filename=covidstrings22gamecode.js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=documentgetelementbyid(header)
 src.appendchild(this.img)
-<divid=header></div>
+filename=covidstrings22gamecode.js
+java.awt graphics 
+<div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
-private final j button option button=
-new j button (change color)
+random button
+new button (set random color)
+option button
+new button (change color)
 public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
-jpanel button panel=
+color panel=new j panel();
+add (panel,center )
+button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -67,27 +67,28 @@ object{a:1,b:2,c:3,d:4,e:5,f:6,g:7,h:8}
 keys object keys(team)
 entries object entries(obj);
 value object=[team color]
-covidstrings team list22=[violet,green,indigo,white,yellow,pink,purple,black]
-covid strings phrase list22=[ non-cocnatenated gargle with salt water may help with covid
-the best prevention  mechanism might just be get vaccinated
-it helps that covid vaccines do not mess with your dna
-even though garlic may help kill vampires it is not a covid treatment
-the same is true for crucifixes
-dont even think that extreme cold weather will help reduce covid
-if past respiratory virus behavior is prologue cold weather might actually accelerate covid
-while milk itself is not an effective covid treatment mixing it with an antihistamine in benadryl helps
-concatenated
-just+like+apple+c+car+does+not+mean+self+driving+superspreader+model+c+does+not+mean+covid+model
-in+a+different+way+car+prices+have+increased+due+to+covid
-covid+babies+have+on+the+other+hand+very+beneficial+traits
-the+bad+news+is+that+trump+wants+to+tie+federal+funding+for+schools+to+not+mandating+covid+vaccines
-this+includes+the+fact+that+trump+wanted+to+reopen+schools+early
-ironically+most+schools+dropped+vaccine+requirements+in+2022
-one+sign+overall+towards+normalcy+is+when+science+makes+clear+that+the+risk+can+be+something+people+overall+can+deal+with
-for+example+endemic+covid+would+require+adjustments+like+masking+if+youre+sick+but+no+lockdowns]
+covidstrings team list22=[violet relivers,green peacemakers,indigo isos,white transit angels ,yellow moxie,pink covid disease fighters,purple brave hearts,black night riders]
+covid strings phrase list22=[non-concatenated strings "gargle with salt water may help with covid"
+"the best prevention  mechanism might just be get vaccinated"
+"it helps that covid vaccines do not mess with your dna"
+"even though garlic may help kill vampires it is not a covid treatment"
+"the same is true for crucifixes"
+"dont even think that extreme cold weather will help reduce covid"
+"if past respiratory virus behavior is prologue cold weather might actually accelerate covid"
+"while milk itself is not an effective covid treatment mixing it with an antihistamine in benadryl helps"
+concatenated strings
+"just"+"like"+"apple"+"c"+"car"+"does"+"not"+"mean"+"self"+"driving"+"superspreader"+"model"+"c"+"does"+"not"+"mean"+"covid"+"model"
+"in"+"a"+"different"+"way"+"car"+"prices"+"have"+"increased"+"due"+"to"+"covid"
+"covid"+"babies"+"have"+"on"+"the"+"other"+"hand"+"very"+"beneficial"+"traits"
+"the"+"bad"+"news"+"is"+"that"+"trump"+"wants"+"to"+"tie"+"federal"+"funding"+"for"+"schools"+"to"+"not"+"mandating"+"covid"+"vaccines"
+"this"+"includes"+"the"+"fact"+"that"+"trump"+"wanted"+"to"+"reopen"+"schools"+"early"
+"ironically"+"most"+"schools"+"dropped"+"vaccine"+"requirements"+"in"+"2022"
+"one"+"sign"+"overall"+"towards"+"normalcy"+"is"+"when"+"science"+"makes"+"clear"+"that"+"the"+"risk"+"can"+"be"+"something"+"people"+"overall"+"can"+"deal"+"with"
+"for"+"example"+"endemic"+"covid"+"would"+"require"+"adjustments"+"like"+"masking"+"if"+"youre"+"sick"+"but"+"no"+"lockdowns"]
 covid strings22multiplechoicelist=[1a prevention b removal c voting d immunity,2:a c9 corvette b c car c i car d lincoln park,3:a salt water b hydrogen peroxide c bath salt d italian twinkle lights,4:a toilet paper b car prices c kn95 masks d prank calls,5:a covid b sun-tanning c skin cancer d werewolf,6:a school bus drivers b state capture c federal funding d ukraine aid,7:a rna b 401k c dna d atm,8:aschools b offices c movie theaters d mar-a-lago,9:a bibles b crucifixes c torahs d quarans,10:a disappointing b average c beneficial d honest,11:a young blood b cold weather c hot weather d muggification,12:a 2011 b 1975 c 2014 d 2022,13:a thrown out the window b prologue c taken literally but not seriously d the boy who cried wolf,14:a science b politics c addiction d mild infections,15:a pre-pandemic b pandemic c endemic d panendemic,16:a milk b tea c ginger beer d xanax]
-covidstrings22mathproblemslist=[if a graph showing the price of cars post covid increased by200 percent if the y intercept is100 what is the y coordinate at1?,if the previous point was reflected across the x axis  what is the new point?”,“if the solution to the previous problem was rotated 180 degrees counterclockwise what would the new point be?”, “if another point was at 400 find the x coordinate?”, “if a smaller line had ½ the slope of the previous line what is the new post-covid  price of a car at the x point of  6?”,“if a graph regarding covid and milk had a slope of 1/5 and a y intercept of 2 what would the y point be if the x point is 3?”,“if the line stays flat what is the relationship between covid and milk?”,“if the line regarding covid and car prices continues to increase what would the relationship between covid and car prices be?,if+87+percent+believe+that+covid+caused+an+increase+in+car+prices+what+percent+dont?,if+67+percent+strongly+believe+what+percent+is+mild?,if+the+margin+of+error+is+11+percent+what+is+the+range?,if+14+percent+believe+weather+doesnt+impact+covid+transmission+what+percent+do?,if+9+percent+strongly+believe+what+percent+is+mild?,if+the+margin+of+error+is+3.11+percent+what+is+the+range?]
-covid strings scrambled phraselist22=[divoc+matineantihist,ovcid+dolc+theawr]
+covidstrings22mathproblemslist=[ non-concatenated "if a graph showing the price of cars post covid increased by200 percent if the y intercept is100 what is the y coordinate at1"?,"if the previous point was reflected across the x axis  what is the new point?”,“if the solution to the previous problem was rotated 180 degrees counterclockwise what would the new point be?”, “if another point was at 400 find the x coordinate?”, “if a smaller line had ½ the slope of the previous line what is the new post-covid  price of a car at the x point of  6?”,“if a graph regarding covid and milk had a slope of 1/5 and a y intercept of 2 what would the y point be if the x point is 3?”,“if the line stays flat what is the relationship between covid and milk?”,“if the line regarding covid and car prices continues to increase what would the relationship between covid and car prices be"?,
+concatenated "if"+"87"+"percent"+"believe"+"that"+"covid"+"caused"+"an"+"increase"+"in"+"car"+"prices"+"what"+"percent"+"dont"?,"if"+"67"+"percent"+"strongly"+"believe"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"11"+"percent"+"what"+"is"+"the"+"range"?,"if"+"14"+"percent"+"believe"+"weather"+"doesnt"+"impact"+"covid"+"transmission"+"what"+"percent"+"do"?,"if"+"9"+"percent"+"strongly"+"believe"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"3.11"+"percent"+"what"+"is"+"the"+"range"?]
+covid strings scrambled phraselist22=["divoc"+"matineantihist","ovcid"+"dolc"+"theawr"]
 userin.select team
 import meta.
 class myclass
@@ -218,4 +219,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet)
+if users team wins covid strings22 
+console log users team wins covid strings22 
+else
+return game over
 return filename
