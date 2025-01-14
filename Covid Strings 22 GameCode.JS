@@ -209,7 +209,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
