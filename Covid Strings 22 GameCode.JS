@@ -42,7 +42,7 @@ this.add(buttonpanel,borderlayout.south)
 public static main(string [] args){
 jframe f = new covid strings22()
 f.set title(covid strings22)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
