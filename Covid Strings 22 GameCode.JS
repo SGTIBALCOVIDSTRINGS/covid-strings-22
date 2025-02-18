@@ -4,7 +4,7 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=documentgetelementbyid(header)
 src.appendchild(this.img)
-filename=covidstrings22gamecode.js
+filename=covidstrings22.js
 java.awt graphics 
 <div id=header></div>
 audio=new audio(audio_file mp3)
@@ -159,11 +159,11 @@ height=100%
 <fecomponenttransfer>
 <fefunccovidstrings  type=linear slope>=1
 transformationlist=[reflection,rotation,translation]
-if reflection==x axis:
-shift x axis
+if reflection (1,102)==x axis:
+change y coordinate 
 else:
-shift y axis
-if rotation==180 degrees:
+remain
+if rotation(1,-102)==180 degrees:
 shift 180 degrees
 else:
 remain 
