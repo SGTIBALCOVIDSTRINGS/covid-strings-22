@@ -160,7 +160,7 @@ height=100%
 <fefunccovidstrings  type=linear slope>=1
 transformationlist=[reflection,rotation,translation]
 if reflection (1,102)==x axis:
-change y coordinate 
+sign.change y coordinate 
 else:
 remain
 if rotation(1,-102)==180 degrees:
